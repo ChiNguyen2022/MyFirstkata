@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Login</name>
+   <name>TC4-Binding data</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>6b2b599d-f093-442d-a9dc-ca1ccdf86633</testCaseGuid>
+   <testCaseGuid>b0dd05c3-a1ec-4756-b34e-af27a2065595</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>92c18c2e-d2e5-42bf-af0f-61f023ce52fd</variableId>
+      <variableId>13dcd440-277e-4191-98be-a7f82ee064b1</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>3d06f566-d3ca-4b37-90fe-3b22fc38b2cf</variableId>
+      <variableId>4e1783c1-0c03-4ac2-8cea-575f424512ba</variableId>
    </variableLinks>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>92c18c2e-d2e5-42bf-af0f-61f023ce52fd</id>
+      <id>13dcd440-277e-4191-98be-a7f82ee064b1</id>
       <masked>false</masked>
-      <name>sUser</name>
+      <name>Username</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>3d06f566-d3ca-4b37-90fe-3b22fc38b2cf</id>
+      <id>4e1783c1-0c03-4ac2-8cea-575f424512ba</id>
       <masked>false</masked>
-      <name>sPassword</name>
+      <name>Password</name>
    </variable>
 </TestCaseEntity>
